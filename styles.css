@@ -1,0 +1,24 @@
+ul, ol {
+  margin: 3;
+  padding-left: 15px;
+}
+
+h1, h2, h3, p {
+  margin: 0;
+  padding: 0;
+}
+.grocery-section{
+  background-color: rgb(172, 172, 172);
+  padding: 20px;
+  border: 10px solid #ff3838;
+    margin-bottom: 20px;
+}
+.section-header{
+  background-color:greenyellow ;
+  padding: 10px;
+  margin: 0%;
+}
+.grocery-photo{
+  padding: 10px;
+  max-width: 25%;
+}
